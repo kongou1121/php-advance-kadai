@@ -92,6 +92,14 @@ body {
     margin: 0 0 1.75rem;
     font-size: 1.75rem;
   }
+
+  .books-ui {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 0 0.75rem;
+    margin-bottom: 1.5rem;
+  }
   
   .books-ui div {
     display: flex;
